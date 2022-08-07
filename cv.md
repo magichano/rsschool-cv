@@ -1,5 +1,9 @@
 # Magichano's CV
-### tg @magimagimagi
+
+## Contacts
+tg @magimagimagi, [discord](https://discord.com/channels/@magichano#2313)
+
+## Profile
 27, wanna be specialist and independent of working place and town with IT profession, perfectionist
 
 ## Skills
