@@ -8,7 +8,7 @@ tg @magimagimagi, [discord](https://discord.com/channels/@magichano#2313)
 27, wanna be specialist and independent of working place and town with IT profession, perfectionist
 
 ## Skills
-JS, SAP UI5, Git
+JS, SAP UI5, Git: everywhere is a beginner
 
 ## Work experience
 1. Moscow aviation institute: technician;
