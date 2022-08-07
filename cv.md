@@ -1,4 +1,5 @@
 # Magichano's CV
+![palm](https://github.com/magichano/rsschool-cv/raw/gh-pages/palm.jpeg)
 
 ## Contacts
 tg @magimagimagi, [discord](https://discord.com/channels/@magichano#2313)
