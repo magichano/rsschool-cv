@@ -8,7 +8,11 @@ tg @magimagimagi, [discord](https://discord.com/channels/@magichano#2313)
 27, wanna be specialist and independent of working place and town with IT profession, perfectionist
 
 ## Skills
-JS, SAP UI5, Git: everywhere is a beginner
+* JS basics 
+* SAP UI5 basics 
+* Git basics
+* GitHub basics
+* VSCode basics
 
 ## Work experience
 1. Moscow aviation institute: technician;
@@ -17,10 +21,13 @@ JS, SAP UI5, Git: everywhere is a beginner
 
 ## Education
 1. Moscow Aviation Institute: bachelor degree. Aircraft and rocket stiffness calculations;
-2. Moscow Aviation Institute: master degree. Aircraft and rocket stiffness calculations.
+2. Moscow Aviation Institute: master degree. Aircraft and rocket stiffness calculations;
+3. Sololearn courses: JS, HTML, CSS
 
 ## Languages
-English: Intermediate level. Using only abroad on vacations
+* Russian: native
+* English (based [on](www.efset.org)) ![englishlevel](https://github.com/magichano/rsschool-cv/raw/gh-pages/assets/el.png)
+
 
 
 
