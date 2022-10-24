@@ -1,0 +1,120 @@
+@font-face {
+    font-family: 'fontt';
+     src: url("assets/fonts/PTSansRegular.ttf");
+     font-weight: 3000;
+   }
+
+   * {
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth; 
+  }
+
+body {
+    font-family: 'fontt';
+    font-size: 18px;
+    min-height: 100vh;
+  flex-direction: column;
+  max-width: 1440px;
+  justify-content: space-between; 
+  }
+  
+.main{
+    
+}
+
+.container {
+    margin: 0 auto;
+    display: flex;
+  flex-wrap: wrap;
+  align-items: start;
+  }
+
+  .containerr {
+    margin: 0 auto;
+    display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  background-color:rgb(223, 162, 88);
+  }
+
+  .containerrr {
+    margin: 0 auto;
+    display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  background-color: bisque;
+  justify-content: space-between; 
+  }
+
+  .nav {
+    background-color:bisque;
+  }
+
+  .nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+    margin: 0px;
+  }
+
+  .nav-listt {
+    margin: 0px;
+  }
+
+  .nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+    transition: .3s;
+  }
+
+.section {
+  width: 50%;
+}
+
+.section-title {
+    margin: 0px auto 0.83em auto;
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #829985;
+  }
+
+  h1 {
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #829985;
+  }
+
+  h3{
+    margin: 0px;
+  }
+
+  .h3{
+  }
+
+  a {
+    text-decoration: none;
+    color: #829985;
+    transition: color 0.5s;
+  }
+  
+  a:hover {
+    color: #5d7260;
+  }
+
+  @media (max-width: 768px) {
+    .section {
+      width: 100%;
+    }
+  }
+
+  .footer{
+    
+  }
