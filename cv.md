@@ -1,9 +1,7 @@
 # Magichano's CV
-<<<<<<< HEAD
+
 ![palm](https://github.com/magichano/rsschool-cv/raw/gh-pages/assets/img/palm.jpeg)
-=======
-![palm](https://github.com/magichano/rsschool-cv/raw/gh-pages/assets/palm.jpeg)
->>>>>>> c8f035dc002d68b70188c8c67f67ae8c34c0aa3a
+
 
 ## Contacts
 tg @magimagimagi, [discord](https://discord.com/channels/@magichano#2313)
@@ -30,11 +28,8 @@ tg @magimagimagi, [discord](https://discord.com/channels/@magichano#2313)
 
 ## Languages
 * Russian: native
-<<<<<<< HEAD
-* English (based [on](www.efset.org)) ![englishlevel](https://github.com/magichano/rsschool-cv/raw/gh-pages/assets/img/el.png)
-=======
 * English (based [on](www.efset.org)) ![englishlevel](https://github.com/magichano/rsschool-cv/raw/gh-pages/assets/el.png)
->>>>>>> c8f035dc002d68b70188c8c67f67ae8c34c0aa3a
+
 
 
 
