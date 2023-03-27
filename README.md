@@ -1,1 +1,1 @@
-# rsschool-cv
+https://magichano.github.io/shelter/
